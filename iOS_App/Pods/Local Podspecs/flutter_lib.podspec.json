@@ -1,0 +1,27 @@
+{
+  "name": "flutter_lib",
+  "version": "0.1.0",
+  "summary": "A short description of flutter_lib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/843458091@qq.com/flutter_lib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "843458091@qq.com": "843458091@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/843458091@qq.com/flutter_lib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "static_framework": true,
+  "ios": {
+    "vendored_frameworks": [
+      "ios_frameworks/*.framework"
+    ]
+  }
+}

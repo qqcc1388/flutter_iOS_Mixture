@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-iOS_App-iOS_AppUITests/Pods-iOS_App-iOS_AppUITests-frameworks.sh
+${PODS_ROOT}/../../flutter_lib/ios_frameworks/App.framework
+${PODS_ROOT}/../../flutter_lib/ios_frameworks/Flutter.framework
+${PODS_ROOT}/../../flutter_lib/ios_frameworks/url_launcher.framework
+${PODS_ROOT}/../../flutter_lib/ios_frameworks/webview_flutter.framework
